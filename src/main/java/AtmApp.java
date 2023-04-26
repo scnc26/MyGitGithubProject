@@ -4,5 +4,6 @@ public class AtmApp {
     //versiyon01
         System.out.println("java is easy");
     //versiyon02
+        System.out.println("java is verry easy murat branch");
 
 }}
