@@ -8,6 +8,6 @@ public class AtmApp {
         //version3
         //remote repoda degisiklik yaptik
         //versiyon04
-
+//remote02
 
 }}
