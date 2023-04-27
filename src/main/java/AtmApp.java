@@ -6,6 +6,8 @@ public class AtmApp {
     //versiyon02
         System.out.println("java is verry easy murat branch");
         //version3
+        //remote repoda degisiklik yaptik
+        //versiyon04
 
 
 }}
